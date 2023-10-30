@@ -1,0 +1,14 @@
+{
+  "recensioni": [
+    {
+      "nome_cliente": "Giovanni Verdi",
+      "voto": 5,
+      "commento": "Ottimo cibo e servizio!"
+    },
+    {
+      "nome_cliente": "Maria Russo",
+      "voto": 4,
+      "commento": "Buona atmosfera, prezzi un po' alti."
+    }
+  ]
+}

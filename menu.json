@@ -1,0 +1,19 @@
+{
+  "menu": [
+    {
+      "nome_piatto": "Pizza Margherita",
+      "descrizione": "Pizza classica con pomodoro, mozzarella e basilico",
+      "prezzo": 8.99
+    },
+    {
+      "nome_piatto": "Pasta Carbonara",
+      "descrizione": "Pasta con uova, pancetta, pecorino e pepe nero",
+      "prezzo": 12.99
+    },
+    {
+      "nome_piatto": "Bruschetta",
+      "descrizione": "Pane tostato con pomodoro fresco, aglio e basilico",
+      "prezzo": 5.99
+    }
+  ]
+}
